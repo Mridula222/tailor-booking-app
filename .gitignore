@@ -1,17 +1,1 @@
-# Node modules
-node_modules/
-
-# Logs
-logs
-*.log
-
-# OS-specific
-.DS_Store
-Thumbs.db
-
-# dotenv
-.env
-
-# Build folders
-frontend/build/
-backend/build/
+node_modules/ 

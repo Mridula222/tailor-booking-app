@@ -1,0 +1,35 @@
+/* styles.css */
+body {
+  font-family: Arial, sans-serif;
+  background: linear-gradient(to right, #f9f9f9, #e0e0e0);
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+.header {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.design-card {
+  background-color: white;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  padding: 1rem;
+  margin-bottom: 1rem;
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.design-card img {
+  width: 150px;
+  height: auto;
+  border-radius: 6px;
+}
